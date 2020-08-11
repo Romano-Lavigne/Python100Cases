@@ -16,3 +16,9 @@ for i in itertools.permutations(a,3):
     print(i)
     sum2+=1
 print(sum2)
+
+a=1
+print(a)
+
+
+
